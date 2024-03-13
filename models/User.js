@@ -1,5 +1,4 @@
 //User schema with role
-
 const mongoose = require('mongoose');
 const { Schema } = mongoose;
 
